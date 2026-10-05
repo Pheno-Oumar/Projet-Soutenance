@@ -1,0 +1,85 @@
+{
+  "RESERVATION": {
+    "sujet": "RESERVATION",
+    "titre": "Comment réserver une prestation ?",
+    "explication": "La réservation sur Mon Salon est instantanée et accessible 24h/24 sans avance de frais obligée.",
+    "etapes": [
+      "Choisissez votre salon et consultez le catalogue des prestations.",
+      "Sélectionnez une ou plusieurs formules (variantes) et éventuellement votre coiffeur préféré.",
+      "Sélectionnez la date et l'horaire de votre choix parmi les créneaux disponibles.",
+      "Confirmez votre rendez-vous. Vous recevrez immédiatement un email de confirmation avec tous les détails."
+    ]
+  },
+  "CLICK_COLLECT": {
+    "sujet": "CLICK_COLLECT",
+    "titre": "Fonctionnement du Click & Collect boutique",
+    "explication": "Commandez vos soins et cosmétiques capillaires préférés directement auprès de votre salon et récupérez-les sur place sous 48h.",
+    "etapes": [
+      "Parcourez la boutique en ligne du salon et ajoutez vos produits au panier.",
+      "Validez votre commande Click & Collect.",
+      "Un code de retrait sécurisé unique à 6 caractères vous est délivré.",
+      "Présentez votre code de retrait au salon pour récupérer vos produits emballés."
+    ]
+  },
+  "COMPTE": {
+    "sujet": "COMPTE",
+    "titre": "Gestion de votre compte client et fidélité",
+    "explication": "Votre compte centralise l'ensemble de votre parcours beauté sur la plateforme.",
+    "etapes": [
+      "Suivi en temps réel de tous vos rendez-vous passés et à venir.",
+      "Historique complet de vos prestations, coiffeurs et règlements.",
+      "Fiche personnalisée de votre profil capillaire partagée en toute sécurité avec vos coiffeurs.",
+      "Gestion de vos salons et coiffeurs favoris pour une réservation en un clic."
+    ]
+  },
+  "KADYS": {
+    "sujet": "KADYS",
+    "titre": "Découverte et inspirations vidéo Kady's",
+    "explication": "Kady's est le premier flux immersif vidéo dédié aux réalisations et transformations capillaires en direct des salons partenaires.",
+    "etapes": [
+      "Faites défiler les vidéos de coiffures réelles réalisées par les artisans coiffeurs.",
+      "Aimez et enregistrez vos inspirations préférées pour vos prochains rendez-vous.",
+      "Accédez directement au salon créateur ou au coiffeur d'une vidéo en un geste."
+    ]
+  },
+  "PAIEMENT": {
+    "sujet": "PAIEMENT",
+    "titre": "Modalités de règlement",
+    "explication": "Le règlement de vos prestations et commandes Click & Collect s'effectue directement au salon lors de votre visite.",
+    "etapes": [
+      "Paiement sur place au salon par Espèces, Carte Bancaire ou Mobile Money (Orange Money, Wave, Moov).",
+      "Facture et reçu dématérialisés disponibles immédiatement dans votre espace client personnel."
+    ]
+  },
+  "DONNEES_PERSONNELLES": {
+    "sujet": "DONNEES_PERSONNELLES",
+    "titre": "Protection de vos données et confidentialité (RGPD)",
+    "explication": "Mon Salon applique les plus hauts standards de confidentialité pour vos données personnelles et votre profil capillaire.",
+    "etapes": [
+      "Vos informations personnelles ne sont jamais vendues à des tiers.",
+      "Votre profil capillaire peut être protégé par un code PIN secret que vous seul transmettez à votre coiffeur.",
+      "Vous pouvez à tout moment exporter l'intégralité de vos données ou demander leur suppression depuis vos paramètres."
+    ]
+  },
+  "DEVENIR_PARTENAIRE": {
+    "sujet": "DEVENIR_PARTENAIRE",
+    "titre": "Rejoindre la plateforme Mon Salon en tant que professionnel",
+    "explication": "Propriétaires de salons de coiffure et instituts de beauté capillaire, développez votre visibilité et simplifiez votre gestion.",
+    "etapes": [
+      "Gestion d'agenda intelligente avec détection d'indisponibilité.",
+      "Vitrine interactive avec catalogue de prestations, boutique Click & Collect et galerie Kady's.",
+      "Suivi des encaissements, des stocks et de la fidélité client.",
+      "Contactez l'équipe Mon Salon pour planifier une démonstration et intégrer le réseau."
+    ]
+  },
+  "ANNULATION": {
+    "sujet": "ANNULATION",
+    "titre": "Politique d'annulation et de report",
+    "explication": "Les rendez-vous peuvent être modifiés ou annulés sans pénalité depuis votre espace client jusqu'au délai fixé par le salon.",
+    "etapes": [
+      "Pour annuler ou décaler, accédez à vos rendez-vous et sélectionnez le créneau concerné.",
+      "Le créneau est immédiatement libéré pour les autres membres de la communauté.",
+      "En cas d'empêchement de dernière minute, nous vous remercions de contacter directement le salon par téléphone."
+    ]
+  }
+}
