@@ -10,5 +10,7 @@ public record LignePanierDTOResponse(
         Integer quantite,
         BigDecimal sousTotal,
         Integer stockDisponible,
-        boolean enAlerte
+        boolean enAlerte,
+        String imageUrl
+
 ) {}
