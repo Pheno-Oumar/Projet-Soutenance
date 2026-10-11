@@ -171,6 +171,8 @@ public class PanierService {
                     int dispo = (stock != null) ? stock.getQuantiteDisponible() : 0;
                     int seuilMin = (stock != null) ? stock.getSeuilMinimum() : 0;
                     boolean enAlerte = dispo <= seuilMin;
+                     String imageUrl = l.getProduit().getImageUrl();
+
                     return new LignePanierDTOResponse(
                             l.getId(),
                             l.getProduit().getId(),
@@ -179,7 +181,8 @@ public class PanierService {
                             l.getQuantite(),
                             l.calculerSousTotal(),
                             dispo,
-                            enAlerte
+                            enAlerte,
+                            imageUrl
                     );
                 })
                 .toList();

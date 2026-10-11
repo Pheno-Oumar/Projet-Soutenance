@@ -57,7 +57,7 @@ public class Initialisateur implements CommandLineRunner {
     }
 
     private void initAdminSysteme() {
-        String email = "amadou14112004@gmail.com";
+        String email = "okadidiatou78@gmail.com";
 
         if (!compteRepository.existsByEmail(email)) {
             RolePlateforme roleAdmin = rolePlateformeRepository.findByRole(TypeRolePlateforme.ADMIN_SYSTEME)
@@ -65,10 +65,10 @@ public class Initialisateur implements CommandLineRunner {
 
             Compte admin = Compte.builder()
                     .email(email)
-                    .nom("AON")
-                    .prenom("Amadou")
-                    .telephone("76662725")
-                    .password(passwordEncoder.encode("123456"))
+                    .nom("OUATTARA")
+                    .prenom("Kadidiatou")
+                    .telephone("68792865")
+                    .password(passwordEncoder.encode("junior@2026"))
                     .statut(true)
                     .rolePlateforme(roleAdmin)
                     .build();
@@ -99,6 +99,6 @@ public class Initialisateur implements CommandLineRunner {
                 log.info("Logo automatique assigné au salon '{}' : {}", s.getNom(), assignedLogo);
             }
             idx++;
-        }
+        } 
     }
 }
